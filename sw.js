@@ -2,6 +2,7 @@ var cacheName = 'rifa-pwa';
 var filesToCache = [
   '/',
   '/index.html',
+  '/main.js',
   '/sketch3c.js',
   '/libraries/p5.js',
   '/libraries/p5.sound.js',
